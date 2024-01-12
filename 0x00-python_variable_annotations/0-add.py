@@ -2,9 +2,7 @@
 """add module"""
 
 
-def add(a : float, b: float) -> float:
-    """function add
-    Args :
-        a,b:float
+def add(a: float, b: float) -> float:
+    """adds 2 floats
     """
     return (a + b)
